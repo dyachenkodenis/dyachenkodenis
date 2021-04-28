@@ -1,4 +1,10 @@
-### Hi there 👋
+### Hi 👋
+			 
+																									 
+		@dyachenkodenis | github.com/dyachenkodenis 
+```
+
+![Denis Dyachenko GitHub stats](https://github-readme-stats.vercel.app/api?username=dyachenkodenis&count_private=true&show_icons=true&theme=nord&custom_title=Denis Dyachenko%27s%20GitHub%20Stats)
 
 <!--
 **dyachenkodenis/dyachenkodenis** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
