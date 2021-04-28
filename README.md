@@ -2,6 +2,8 @@
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=dyachenkodenis&layout=compact)](https://github.com/dyachenkodenis/github-readme-stats)
 
+@dyachenkodenis | github.com/dyachenkodenis |
+
 <!--
 **dyachenkodenis/dyachenkodenis** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
