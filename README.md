@@ -1,6 +1,6 @@
 ### Hi 👋
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=dyachenkodenis&layout=compact)](https://github.com/dyachenkodenis/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=dyachenkodenis&layout=compact)](https://github.com/dyachenkodenis)
 
 @dyachenkodenis | github.com/dyachenkodenis |
 
